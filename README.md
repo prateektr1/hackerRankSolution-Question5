@@ -15,3 +15,8 @@ To validate if a file is in NJAN format, use the following command:
 
 ```shell
 java NjanTool validate < input.json
+
+Steps to clone the repo
+
+1. Clone the Repo https://github.com/prateektr1/hackerRankSolution-Question5.git
+2. Import the main file in an IDE like eclipse or intellij and follow the instrcutions given
